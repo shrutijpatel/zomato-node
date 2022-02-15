@@ -1,14 +1,14 @@
 Page 1
- List of city
+1.List of city
 > http://localhost:6200/locations
 > https://zomato-node.herokuapp.com/locations
- List of restaurants 
+2. List of restaurants 
 > http://localhost:6200/restaurants
 > https://zomato-node.herokuapp.com/restaurants
- Restaurants wrt to city 
+3.Restaurants wrt to city 
 > http://localhost:6200/restaurants?state_id=2
 > https://zomato-node.herokuapp.com/
- Quick search data  
+4.Quick search data  
 > http://localhost:6200/mealTypes
 > https://zomato-node.herokuapp.com/mealTypes
 
